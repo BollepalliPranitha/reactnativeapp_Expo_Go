@@ -1,0 +1,8 @@
+{
+  "name": "reactnativeappExpoGo",
+  "displayName": "reactnativeappExpoGo",
+  "expo": {
+    "entryPoint": "./index.js"
+    
+  }
+}
